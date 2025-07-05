@@ -1,0 +1,4 @@
+#(sample)
+# Host          Port  Description
+google.com      443   Google Search
+1.1.1.1         53    Cloudflare DNS
